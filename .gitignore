@@ -1,0 +1,9 @@
+bin
+include
+lib
+lib64
+etc
+data
+share
+
+pyvenv.cfg
